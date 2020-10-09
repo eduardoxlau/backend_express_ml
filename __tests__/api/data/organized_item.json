@@ -1,0 +1,36 @@
+{
+  "author": {
+    "name": "Rafael",
+    "lastname": "sanchez"
+  },
+  "categories": [
+    {
+      "id": "MLA1055",
+      "name": "Celulares y Smartphones",
+      "path_from_root": [
+        {
+          "id": "MLA1051",
+          "name": "Celulares y Teléfonos"
+        },
+        {
+          "id": "MLA1055",
+          "name": "Celulares y Smartphones"
+        }
+      ]
+    }
+  ],
+  "item": {
+    "id": "MLA848706209",
+    "title": "iPhone 11 64 Gb Blanco",
+    "price": {
+      "currency": "ARS",
+      "amount": 153000,
+      "decimals": 0
+    },
+    "picture": "http://http2.mlstatic.com/D_641268-MLA43654417348_102020-O.jpg",
+    "condition": "new",
+    "sold_quantity": 5,
+    "free_shipping": true,
+    "description": "description"
+  }
+}

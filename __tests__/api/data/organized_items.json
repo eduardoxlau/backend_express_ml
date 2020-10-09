@@ -1,0 +1,612 @@
+{
+  "author": {
+    "name": "Rafael",
+    "lastname": "sanchez"
+  },
+  "categories": [
+    {
+      "id": "MLA1055",
+      "name": "Celulares y Smartphones",
+      "path_from_root": [
+        {
+          "id": "MLA1051",
+          "name": "Celulares y Teléfonos"
+        },
+        {
+          "id": "MLA1055",
+          "name": "Celulares y Smartphones"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "MLA848706209",
+      "title": "iPhone 11 64 Gb Blanco",
+      "price": {
+        "currency": "ARS",
+        "amount": 153000,
+        "decimals": 0
+      },
+      "picture": "http://http2.mlstatic.com/D_641268-MLA43654417348_102020-I.jpg",
+      "condition": "new",
+      "free_shipping": true
+    },
+    {
+      "id": "MLA851450719",
+      "title": "iPhone 7 32 Gb Negro Mate",
+      "price": {
+        "currency": "ARS",
+        "amount": 76131,
+        "decimals": 0
+      },
+      "picture": "http://http2.mlstatic.com/D_942036-MLA31003118587_062019-I.jpg",
+      "condition": "new",
+      "free_shipping": true
+    },
+    {
+      "id": "MLA882778806",
+      "title": "iPhone SE (2nd Generation) 64 Gb Blanco",
+      "price": {
+        "currency": "ARS",
+        "amount": 92000,
+        "decimals": 0
+      },
+      "picture": "http://http2.mlstatic.com/D_732162-MLA42320762979_062020-I.jpg",
+      "condition": "new",
+      "free_shipping": true
+    },
+    {
+      "id": "MLA832366587",
+      "title": "iPhone 11 Pro Max 64 Gb Gris Espacial",
+      "price": {
+        "currency": "ARS",
+        "amount": 219989.98,
+        "decimals": 0
+      },
+      "picture": "http://http2.mlstatic.com/D_645254-MLA32646972200_102019-I.jpg",
+      "condition": "new",
+      "free_shipping": true
+    },
+    {
+      "id": "MLA832440094",
+      "title": "iPhone 11 Pro 64 Gb Gris Espacial",
+      "price": {
+        "currency": "ARS",
+        "amount": 199989.98,
+        "decimals": 0
+      },
+      "picture": "http://http2.mlstatic.com/D_729868-MLA32647708573_102019-I.jpg",
+      "condition": "new",
+      "free_shipping": true
+    },
+    {
+      "id": "MLA844516000",
+      "title": "iPhone XR 64 Gb Coral",
+      "price": {
+        "currency": "ARS",
+        "amount": 147500,
+        "decimals": 0
+      },
+      "picture": "http://http2.mlstatic.com/D_767991-MLA31002298969_062019-I.jpg",
+      "condition": "new",
+      "free_shipping": true
+    },
+    {
+      "id": "MLA858050198",
+      "title": "iPhone 7 Plus 32 Gb Negro Mate",
+      "price": {
+        "currency": "ARS",
+        "amount": 98999,
+        "decimals": 0
+      },
+      "picture": "http://http2.mlstatic.com/D_906278-MLA31003080152_062019-I.jpg",
+      "condition": "new",
+      "free_shipping": true
+    },
+    {
+      "id": "MLA879391130",
+      "title": "iPhone 8 256 Gb Gris Espacial",
+      "price": {
+        "currency": "ARS",
+        "amount": 109000,
+        "decimals": 0
+      },
+      "picture": "http://http2.mlstatic.com/D_950878-MLA31003091319_062019-I.jpg",
+      "condition": "new",
+      "free_shipping": true
+    },
+    {
+      "id": "MLA882872350",
+      "title": "iPhone 8 Plus 64 Gb (product)red",
+      "price": {
+        "currency": "ARS",
+        "amount": 123999,
+        "decimals": 0
+      },
+      "picture": "http://http2.mlstatic.com/D_647237-MLA31147830987_062019-I.jpg",
+      "condition": "new",
+      "free_shipping": true
+    },
+    {
+      "id": "MLA877877713",
+      "title": "iPhone 6s 64 Gb Plata",
+      "price": {
+        "currency": "ARS",
+        "amount": 69290,
+        "decimals": 0
+      },
+      "picture": "http://http2.mlstatic.com/D_857930-MLA31003091062_062019-I.jpg",
+      "condition": "new",
+      "free_shipping": true
+    },
+    {
+      "id": "MLA882040493",
+      "title": "iPhone 6s Plus 128 Gb Gris Espacial",
+      "price": {
+        "currency": "ARS",
+        "amount": 115499.99,
+        "decimals": 0
+      },
+      "picture": "http://http2.mlstatic.com/D_861638-MLA31003000751_062019-I.jpg",
+      "condition": "new",
+      "free_shipping": true
+    },
+    {
+      "id": "MLA850809863",
+      "title": "iPhone X 64 Gb Plata",
+      "price": {
+        "currency": "ARS",
+        "amount": 178190,
+        "decimals": 0
+      },
+      "picture": "http://http2.mlstatic.com/D_635226-MLA31003000949_062019-I.jpg",
+      "condition": "new",
+      "free_shipping": true
+    },
+    {
+      "id": "MLA865516623",
+      "title": "iPhone XS 64 Gb Gris Espacial",
+      "price": {
+        "currency": "ARS",
+        "amount": 148490,
+        "decimals": 0
+      },
+      "picture": "http://http2.mlstatic.com/D_702604-MLA31002342896_062019-I.jpg",
+      "condition": "new",
+      "free_shipping": true
+    },
+    {
+      "id": "MLA881032137",
+      "title": "iPhone XS Max 64 Gb Plata",
+      "price": {
+        "currency": "ARS",
+        "amount": 158000,
+        "decimals": 0
+      },
+      "picture": "http://http2.mlstatic.com/D_806643-MLA31002298953_062019-I.jpg",
+      "condition": "new",
+      "free_shipping": true
+    },
+    {
+      "id": "MLA883017539",
+      "title": "iPhone 8 Plus 64 Gb Nuevos Librescell ",
+      "price": {
+        "currency": "ARS",
+        "amount": 148999,
+        "decimals": 0
+      },
+      "picture": "http://http2.mlstatic.com/D_647237-MLA31147830987_062019-O.jpg",
+      "condition": "new",
+      "free_shipping": true
+    },
+    {
+      "id": "MLA864098740",
+      "title": "Apple iPhone SE 2020 64gb Caja Sellada Gtia Oficial Martinez",
+      "price": {
+        "currency": "ARS",
+        "amount": 114990,
+        "decimals": 0
+      },
+      "picture": "http://http2.mlstatic.com/D_619589-MLA42325555976_062020-O.jpg",
+      "condition": "new",
+      "free_shipping": true
+    },
+    {
+      "id": "MLA879391435",
+      "title": "iPhone 7 128 Gb Negro Mate 2 Gb Liberados Nuevos Garantia",
+      "price": {
+        "currency": "ARS",
+        "amount": 60000,
+        "decimals": 0
+      },
+      "picture": "http://http2.mlstatic.com/D_636620-MLA31003091126_062019-O.jpg",
+      "condition": "new",
+      "free_shipping": true
+    },
+    {
+      "id": "MLA864099849",
+      "title": "Apple iPhone SE 2020 128gb Caja Sellada Gtia Ofic. Martinez",
+      "price": {
+        "currency": "ARS",
+        "amount": 119990,
+        "decimals": 0
+      },
+      "picture": "http://http2.mlstatic.com/D_689781-MLA42325931590_062020-O.jpg",
+      "condition": "new",
+      "free_shipping": true
+    },
+    {
+      "id": "MLA820233037",
+      "title": "iPhone 11-128gb-libre De Fabrica-garantia-cuotas Sin Interes",
+      "price": {
+        "currency": "ARS",
+        "amount": 241699,
+        "decimals": 0
+      },
+      "picture": "http://http2.mlstatic.com/D_658810-MLA40127830324_122019-O.jpg",
+      "condition": "new",
+      "free_shipping": true
+    },
+    {
+      "id": "MLA824712857",
+      "title": "Apple iPhone 7 Plus 32gb",
+      "price": {
+        "currency": "ARS",
+        "amount": 98999,
+        "decimals": 0
+      },
+      "picture": "http://http2.mlstatic.com/D_857748-MLA41993894316_052020-O.jpg",
+      "condition": "new",
+      "free_shipping": true
+    },
+    {
+      "id": "MLA822727541",
+      "title": "iPhone 7 Apple 32gb Sellado Libre Original Garantia Templado",
+      "price": {
+        "currency": "ARS",
+        "amount": 104989.49,
+        "decimals": 0
+      },
+      "picture": "http://http2.mlstatic.com/D_794069-MLA41055482577_032020-O.jpg",
+      "condition": "new",
+      "free_shipping": true
+    },
+    {
+      "id": "MLA819397764",
+      "title": "iPhone 11 2019 64gb Colores Entrega Hoy 18 Cuotas Sin Intere",
+      "price": {
+        "currency": "ARS",
+        "amount": 249999,
+        "decimals": 0
+      },
+      "picture": "http://http2.mlstatic.com/D_831994-MLA32509104892_102019-O.jpg",
+      "condition": "new",
+      "free_shipping": true
+    },
+    {
+      "id": "MLA839212652",
+      "title": "Apple iPhone XR 64gb Original Garantia Incluye Templado",
+      "price": {
+        "currency": "ARS",
+        "amount": 184788.44,
+        "decimals": 0
+      },
+      "picture": "http://http2.mlstatic.com/D_797736-MLA41395960461_042020-O.jpg",
+      "condition": "new",
+      "free_shipping": true
+    },
+    {
+      "id": "MLA731191648",
+      "title": "Apple iPhone 6s Plus 128 Gb Unlocked 4g Lte Space",
+      "price": {
+        "currency": "ARS",
+        "amount": 86099.99,
+        "decimals": 0
+      },
+      "picture": "http://http2.mlstatic.com/D_633497-MLA26689143823_012018-O.jpg",
+      "condition": "new",
+      "free_shipping": true
+    },
+    {
+      "id": "MLA860064271",
+      "title": "New iPhone SE 2020 128gb Entrega Hoy Garantia Factura",
+      "price": {
+        "currency": "ARS",
+        "amount": 179999,
+        "decimals": 0
+      },
+      "picture": "http://http2.mlstatic.com/D_673378-MLA42072802678_062020-O.jpg",
+      "condition": "new",
+      "free_shipping": true
+    },
+    {
+      "id": "MLA865356391",
+      "title": "Apple iPhone SE 2da Gen 128gb 4.7  _1",
+      "price": {
+        "currency": "ARS",
+        "amount": 125440,
+        "decimals": 0
+      },
+      "picture": "http://http2.mlstatic.com/D_741058-MLA42419679172_062020-O.jpg",
+      "condition": "new",
+      "free_shipping": true
+    },
+    {
+      "id": "MLA882985502",
+      "title": "iPhone XS Max 256gb",
+      "price": {
+        "currency": "ARS",
+        "amount": 750,
+        "decimals": 0
+      },
+      "picture": "http://http2.mlstatic.com/D_616110-MLA43699915836_102020-O.jpg",
+      "condition": "used",
+      "free_shipping": false
+    },
+    {
+      "id": "MLA873428218",
+      "title": "iPhone 7 Plus Gold 128 Gb",
+      "price": {
+        "currency": "ARS",
+        "amount": 89000,
+        "decimals": 0
+      },
+      "picture": "http://http2.mlstatic.com/D_802965-MLA43172276865_082020-O.jpg",
+      "condition": "used",
+      "free_shipping": false
+    },
+    {
+      "id": "MLA796330870",
+      "title": "Envios Celtec Belgrano",
+      "price": {
+        "currency": "ARS",
+        "amount": 350,
+        "decimals": 0
+      },
+      "picture": "http://http2.mlstatic.com/D_805665-MLA31298748174_072019-O.jpg",
+      "condition": "new",
+      "free_shipping": false
+    },
+    {
+      "id": "MLA860961003",
+      "title": "iPhone XS 256 Gb Gold Usado Con Detalle Ver Fotos Bat 95%",
+      "price": {
+        "currency": "ARS",
+        "amount": 130000,
+        "decimals": 0
+      },
+      "picture": "http://http2.mlstatic.com/D_735935-MLA42125524990_062020-O.jpg",
+      "condition": "used",
+      "free_shipping": true
+    },
+    {
+      "id": "MLA880301026",
+      "title": "Apple iPhone 7 Plus De 128 Gb Bateria 100% Libre De Fabrica",
+      "price": {
+        "currency": "ARS",
+        "amount": 74999,
+        "decimals": 0
+      },
+      "picture": "http://http2.mlstatic.com/D_945601-MLA43557663756_092020-O.jpg",
+      "condition": "used",
+      "free_shipping": false
+    },
+    {
+      "id": "MLA882265638",
+      "title": "iPhone 6 Plus Dorado 64 Gigas Sin Detalles Semi Nuevo",
+      "price": {
+        "currency": "ARS",
+        "amount": 42000,
+        "decimals": 0
+      },
+      "picture": "http://http2.mlstatic.com/D_837795-MLA43691812768_102020-O.jpg",
+      "condition": "used",
+      "free_shipping": false
+    },
+    {
+      "id": "MLA878544732",
+      "title": "iPhone 5s 16gb, En Caja Con Vidrio Templado Y Funda.",
+      "price": {
+        "currency": "ARS",
+        "amount": 15000,
+        "decimals": 0
+      },
+      "picture": "http://http2.mlstatic.com/D_629968-MLA43454083401_092020-O.jpg",
+      "condition": "used",
+      "free_shipping": false
+    },
+    {
+      "id": "MLA882985743",
+      "title": "iPhone 6 16gb Gb Bateria 82% Con Detalle - Leer Descripcion",
+      "price": {
+        "currency": "ARS",
+        "amount": 19999,
+        "decimals": 0
+      },
+      "picture": "http://http2.mlstatic.com/D_724456-MLA43699966790_102020-O.jpg",
+      "condition": "used",
+      "free_shipping": false
+    },
+    {
+      "id": "MLA872812583",
+      "title": "iPhone 7 Rose Gold 32gb Con Cargador Excelente Estado!",
+      "price": {
+        "currency": "ARS",
+        "amount": 53000,
+        "decimals": 0
+      },
+      "picture": "http://http2.mlstatic.com/D_988430-MLA43281002965_082020-O.jpg",
+      "condition": "used",
+      "free_shipping": false
+    },
+    {
+      "id": "MLA878854808",
+      "title": "iPhone 6, 32 Gigas, Liberado De Fábrica",
+      "price": {
+        "currency": "ARS",
+        "amount": 27500,
+        "decimals": 0
+      },
+      "picture": "http://http2.mlstatic.com/D_751442-MLA43471006874_092020-O.jpg",
+      "condition": "used",
+      "free_shipping": true
+    },
+    {
+      "id": "MLA875122730",
+      "title": "iPhone 6 De 32gb En Excelentes Condiciones ",
+      "price": {
+        "currency": "ARS",
+        "amount": 30000,
+        "decimals": 0
+      },
+      "picture": "http://http2.mlstatic.com/D_845057-MLA43262813020_082020-O.jpg",
+      "condition": "used",
+      "free_shipping": false
+    },
+    {
+      "id": "MLA880949721",
+      "title": "Apple iPhone 6s Gold Liberado Poco Uso",
+      "price": {
+        "currency": "ARS",
+        "amount": 39890,
+        "decimals": 0
+      },
+      "picture": "http://http2.mlstatic.com/D_889364-MLA43596573662_092020-O.jpg",
+      "condition": "used",
+      "free_shipping": true
+    },
+    {
+      "id": "MLA871766245",
+      "title": "iPhone 7 128 Gb Dorado",
+      "price": {
+        "currency": "ARS",
+        "amount": 65000,
+        "decimals": 0
+      },
+      "picture": "http://http2.mlstatic.com/D_860048-MLA43029499717_082020-O.jpg",
+      "condition": "used",
+      "free_shipping": true
+    },
+    {
+      "id": "MLA841092920",
+      "title": "iPhone XR 128 Gb Como Nuevo !!",
+      "price": {
+        "currency": "ARS",
+        "amount": 150000,
+        "decimals": 0
+      },
+      "picture": "http://http2.mlstatic.com/D_925323-MLA40920255724_022020-O.jpg",
+      "condition": "used",
+      "free_shipping": false
+    },
+    {
+      "id": "MLA881462968",
+      "title": "iPhone 7 32 Gb Bypass Full Llamadas + Datos",
+      "price": {
+        "currency": "ARS",
+        "amount": 27000,
+        "decimals": 0
+      },
+      "picture": "http://http2.mlstatic.com/D_973435-MLA43626119665_092020-O.jpg",
+      "condition": "used",
+      "free_shipping": false
+    },
+    {
+      "id": "MLA882985535",
+      "title": "iPhone 8 - 64 Gb Space Gray - Como Nuevo Efvo $!!",
+      "price": {
+        "currency": "ARS",
+        "amount": 70000,
+        "decimals": 0
+      },
+      "picture": "http://http2.mlstatic.com/D_736957-MLA43411254047_092020-O.jpg",
+      "condition": "used",
+      "free_shipping": true
+    },
+    {
+      "id": "MLA854254494",
+      "title": "iPhone 7",
+      "price": {
+        "currency": "ARS",
+        "amount": 58000,
+        "decimals": 0
+      },
+      "picture": "http://http2.mlstatic.com/D_963879-MLA41737837057_052020-O.jpg",
+      "condition": "used",
+      "free_shipping": false
+    },
+    {
+      "id": "MLA883159858",
+      "title": "Apple iPhone 7 256 Gb",
+      "price": {
+        "currency": "ARS",
+        "amount": 60000,
+        "decimals": 0
+      },
+      "picture": "http://http2.mlstatic.com/D_991094-MLA43707113799_102020-O.jpg",
+      "condition": "new",
+      "free_shipping": true
+    },
+    {
+      "id": "MLA883160419",
+      "title": "iPhone 7 Plus 128gb",
+      "price": {
+        "currency": "ARS",
+        "amount": 75000,
+        "decimals": 0
+      },
+      "picture": "http://http2.mlstatic.com/D_701664-MLA43706941635_102020-O.jpg",
+      "condition": "used",
+      "free_shipping": false
+    },
+    {
+      "id": "MLA875491473",
+      "title": "iPhone 5 64 Gb Sin Accesorios Liberado",
+      "price": {
+        "currency": "ARS",
+        "amount": 27000,
+        "decimals": 0
+      },
+      "picture": "http://http2.mlstatic.com/D_911111-MLA42751939200_072020-O.jpg",
+      "condition": "used",
+      "free_shipping": false
+    },
+    {
+      "id": "MLA880138206",
+      "title": "Celular iPhone S5",
+      "price": {
+        "currency": "ARS",
+        "amount": 20000,
+        "decimals": 0
+      },
+      "picture": "http://http2.mlstatic.com/D_617199-MLA43545653074_092020-O.jpg",
+      "condition": "used",
+      "free_shipping": false
+    },
+    {
+      "id": "MLA829540848",
+      "title": "iPhone 6 Plus Dorado 64 Gigas Sin Detalles Semi Nuevo",
+      "price": {
+        "currency": "ARS",
+        "amount": 45000,
+        "decimals": 0
+      },
+      "picture": "http://http2.mlstatic.com/D_711870-MLA43525064606_092020-O.jpg",
+      "condition": "used",
+      "free_shipping": true
+    },
+    {
+      "id": "MLA874866635",
+      "title": "iPhone SE 16 Gb!! Ver Descripción!",
+      "price": {
+        "currency": "ARS",
+        "amount": 14000,
+        "decimals": 0
+      },
+      "picture": "http://http2.mlstatic.com/D_991844-MLA43693841513_102020-O.jpg",
+      "condition": "used",
+      "free_shipping": true
+    }
+  ]
+}
