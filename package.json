@@ -11,7 +11,7 @@
     "clean": "rm -rf build && mkdir build",
     "build-babel": "babel -d ./build ./src -s",
     "build": "yarn run clean && yarn run build-babel",
-    "start": "yarn run build && node ./build/index.js"
+    "start": "node build/index.js"
   },
   "dependencies": {
     "@babel/runtime": "^7.11.2",
