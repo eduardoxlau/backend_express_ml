@@ -2,20 +2,21 @@ import axios from "axios";
 
 class Api {
   url = "http://api.mercadolibre.com";
+  categories = [];
   author = {
     name: "Rafael",
     lastname: "sanchez",
   };
-  results = [];
   constructor() {}
 
   async items(query) {
     const {
-      data: { results },
+      data: { results, filters },
     } = await axios.get(`${this.url}/sites/MLA/search?q=${query}`);
-    this.results = this.orderItems(results);
+    let items = this.orderItems(results);
+    this.categories = this.getCategory(results, filters);
 
-    return this.results;
+    return { author: this.author, categories: this.categories, items };
   }
 
   async item(id) {
@@ -39,16 +40,11 @@ class Api {
       description: plain_text,
     };
 
-    return { author: this.author, item };
+    return { author: this.author, categories: this.categories, item };
   }
 
   orderItems(elements) {
-    let categoriesMap = {};
-
     let items = elements.map((item) => {
-      categoriesMap[item.category_id] =
-        (categoriesMap[item.category_id] || 0) + 1;
-
       return {
         id: item.id,
         title: item.title,
@@ -63,12 +59,34 @@ class Api {
       };
     });
 
-    let sortedCategories = Object.keys(categoriesMap).sort(
-      (a, b) => categoriesMap[b] - categoriesMap[a]
-    );
-    let categories = sortedCategories.slice(0, 5);
+    return items;
+  }
 
-    return { author: this.author, categories, items };
+  getCategory(elements, filters = []) {
+    let categoriesMap = {};
+    let categoryMostCommon = { count: 0, id: null };
+
+    if (!filters.length) return [];
+
+    elements.forEach((item) => {
+      categoriesMap[item.category_id] =
+        (categoriesMap[item.category_id] || 0) + 1;
+
+      if (categoriesMap[item.category_id] > categoryMostCommon.count) {
+        categoryMostCommon = {
+          count: categoriesMap[item.category_id],
+          id: item.category_id,
+        };
+      }
+    });
+
+    let category = filters.filter((el) => el.id == "category");
+
+    let { values: path_from_root } = category.find(
+      (el) => (el.id = categoryMostCommon.id)
+    );
+
+    return path_from_root;
   }
 }
 
