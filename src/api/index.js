@@ -38,6 +38,7 @@ class Api {
       sold_quantity: data.sold_quantity,
       free_shipping: data.shipping.free_shipping,
       description: plain_text,
+      sold: data.sold_quantity,
     };
 
     return {
@@ -60,6 +61,7 @@ class Api {
         picture: item.thumbnail,
         condition: item.condition,
         free_shipping: item.shipping.free_shipping,
+        city: item.address.city_name,
       };
     });
 
