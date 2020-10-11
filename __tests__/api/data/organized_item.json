@@ -3,22 +3,7 @@
     "name": "Rafael",
     "lastname": "sanchez"
   },
-  "categories": [
-    {
-      "id": "MLA1055",
-      "name": "Celulares y Smartphones",
-      "path_from_root": [
-        {
-          "id": "MLA1051",
-          "name": "Celulares y Teléfonos"
-        },
-        {
-          "id": "MLA1055",
-          "name": "Celulares y Smartphones"
-        }
-      ]
-    }
-  ],
+  "categories": ["MLA848706209", "iPhone 11 64 Gb Blanco"],
   "item": {
     "id": "MLA848706209",
     "title": "iPhone 11 64 Gb Blanco",

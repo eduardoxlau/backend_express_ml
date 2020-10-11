@@ -14,7 +14,7 @@ class Api {
       data: { results, filters },
     } = await axios.get(`${this.url}/sites/MLA/search?q=${query}`);
     let items = this.orderItems(results);
-    categories = this.getCategory(results, filters);
+    let categories = this.getCategory(results, filters);
 
     return { author: this.author, categories: categories, items };
   }
