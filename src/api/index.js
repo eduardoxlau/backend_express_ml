@@ -2,7 +2,7 @@ import axios from "axios";
 
 class Api {
   url = "http://api.mercadolibre.com";
-  categories = [];
+
   author = {
     name: "Rafael",
     lastname: "sanchez",
@@ -14,9 +14,9 @@ class Api {
       data: { results, filters },
     } = await axios.get(`${this.url}/sites/MLA/search?q=${query}`);
     let items = this.orderItems(results);
-    this.categories = this.getCategory(results, filters);
+    categories = this.getCategory(results, filters);
 
-    return { author: this.author, categories: this.categories, items };
+    return { author: this.author, categories: categories, items };
   }
 
   async item(id) {
@@ -40,7 +40,11 @@ class Api {
       description: plain_text,
     };
 
-    return { author: this.author, categories: this.categories, item };
+    return {
+      author: this.author,
+      categories: [item.id, item.title],
+      item,
+    };
   }
 
   orderItems(elements) {
@@ -82,11 +86,11 @@ class Api {
 
     let category = filters.filter((el) => el.id == "category");
 
-    let { values: path_from_root } = category.find(
-      (el) => (el.id = categoryMostCommon.id)
-    );
+    let { values } = category.find((el) => (el.id = categoryMostCommon.id));
 
-    return path_from_root;
+    return values
+      .map((el) => el.path_from_root.map((path) => path.name))
+      .flat();
   }
 }
 
