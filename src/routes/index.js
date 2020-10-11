@@ -5,8 +5,8 @@ const router = express.Router();
 const api = new Api();
 
 router.get("/items", async ({ query }, res) => {
-  const { search } = query;
-  const items = await api.items(search);
+  const { q } = query;
+  const items = await api.items(q);
   res.status(200).json(items);
 });
 
