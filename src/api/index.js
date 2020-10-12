@@ -20,32 +20,36 @@ class Api {
   }
 
   async item(id) {
-    const { data } = await axios.get(`${this.url}/items/${id}`);
-    const {
-      data: { plain_text },
-    } = await axios.get(`${this.url}/items/${id}/description`);
+    try {
+      const { data } = await axios.get(`${this.url}/items/${id}`);
+      const {
+        data: { plain_text },
+      } = await axios.get(`${this.url}/items/${id}/description`);
 
-    let item = {
-      id: data.id,
-      title: data.title,
-      price: {
-        currency: data.currency_id,
-        amount: data.price,
-        decimals: 0,
-      },
-      picture: !data.pictures.length ? data.thumbnail : data.pictures[0].url,
-      condition: data.condition,
-      sold_quantity: data.sold_quantity,
-      free_shipping: data.shipping.free_shipping,
-      description: plain_text,
-      sold: data.sold_quantity,
-    };
+      let item = {
+        id: data.id,
+        title: data.title,
+        price: {
+          currency: data.currency_id,
+          amount: data.price,
+          decimals: 0,
+        },
+        picture: !data.pictures.length ? data.thumbnail : data.pictures[0].url,
+        condition: data.condition,
+        sold_quantity: data.sold_quantity,
+        free_shipping: data.shipping.free_shipping,
+        description: plain_text,
+        sold: data.sold_quantity,
+      };
 
-    return {
-      author: this.author,
-      categories: [item.id, item.title],
-      item,
-    };
+      return {
+        author: this.author,
+        categories: [item.id, item.title],
+        item,
+      };
+    } catch (err) {
+      throw new Error(err);
+    }
   }
 
   orderItems(elements) {
