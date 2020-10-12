@@ -16,6 +16,7 @@
     "condition": "new",
     "sold_quantity": 5,
     "free_shipping": true,
-    "description": "description"
+    "description": "description",
+    "sold": 5
   }
 }

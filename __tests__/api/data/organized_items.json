@@ -15,7 +15,8 @@
       },
       "picture": "http://http2.mlstatic.com/D_641268-MLA43654417348_102020-I.jpg",
       "condition": "new",
-      "free_shipping": true
+      "free_shipping": true,
+      "city": "Barracas"
     },
     {
       "id": "MLA851450719",
@@ -27,7 +28,8 @@
       },
       "picture": "http://http2.mlstatic.com/D_942036-MLA31003118587_062019-I.jpg",
       "condition": "new",
-      "free_shipping": true
+      "free_shipping": true,
+      "city": "Palermo"
     },
     {
       "id": "MLA882778806",
@@ -39,7 +41,8 @@
       },
       "picture": "http://http2.mlstatic.com/D_732162-MLA42320762979_062020-I.jpg",
       "condition": "new",
-      "free_shipping": true
+      "free_shipping": true,
+      "city": "La Plata"
     },
     {
       "id": "MLA832366587",
@@ -51,7 +54,8 @@
       },
       "picture": "http://http2.mlstatic.com/D_645254-MLA32646972200_102019-I.jpg",
       "condition": "new",
-      "free_shipping": true
+      "free_shipping": true,
+      "city": "Palermo"
     },
     {
       "id": "MLA832440094",
@@ -63,7 +67,8 @@
       },
       "picture": "http://http2.mlstatic.com/D_729868-MLA32647708573_102019-I.jpg",
       "condition": "new",
-      "free_shipping": true
+      "free_shipping": true,
+      "city": "Palermo"
     },
     {
       "id": "MLA844516000",
@@ -75,7 +80,8 @@
       },
       "picture": "http://http2.mlstatic.com/D_767991-MLA31002298969_062019-I.jpg",
       "condition": "new",
-      "free_shipping": true
+      "free_shipping": true,
+      "city": "Palermo"
     },
     {
       "id": "MLA858050198",
@@ -87,7 +93,8 @@
       },
       "picture": "http://http2.mlstatic.com/D_906278-MLA31003080152_062019-I.jpg",
       "condition": "new",
-      "free_shipping": true
+      "free_shipping": true,
+      "city": "BARRACAS"
     },
     {
       "id": "MLA879391130",
@@ -99,7 +106,8 @@
       },
       "picture": "http://http2.mlstatic.com/D_950878-MLA31003091319_062019-I.jpg",
       "condition": "new",
-      "free_shipping": true
+      "free_shipping": true,
+      "city": "Belgrano"
     },
     {
       "id": "MLA882872350",
@@ -111,7 +119,8 @@
       },
       "picture": "http://http2.mlstatic.com/D_647237-MLA31147830987_062019-I.jpg",
       "condition": "new",
-      "free_shipping": true
+      "free_shipping": true,
+      "city": "Caballito"
     },
     {
       "id": "MLA877877713",
@@ -123,7 +132,8 @@
       },
       "picture": "http://http2.mlstatic.com/D_857930-MLA31003091062_062019-I.jpg",
       "condition": "new",
-      "free_shipping": true
+      "free_shipping": true,
+      "city": "Palermo"
     },
     {
       "id": "MLA882040493",
@@ -135,7 +145,8 @@
       },
       "picture": "http://http2.mlstatic.com/D_861638-MLA31003000751_062019-I.jpg",
       "condition": "new",
-      "free_shipping": true
+      "free_shipping": true,
+      "city": "CAPITAL FEDERAL"
     },
     {
       "id": "MLA850809863",
@@ -147,7 +158,8 @@
       },
       "picture": "http://http2.mlstatic.com/D_635226-MLA31003000949_062019-I.jpg",
       "condition": "new",
-      "free_shipping": true
+      "free_shipping": true,
+      "city": "Palermo"
     },
     {
       "id": "MLA865516623",
@@ -159,7 +171,8 @@
       },
       "picture": "http://http2.mlstatic.com/D_702604-MLA31002342896_062019-I.jpg",
       "condition": "new",
-      "free_shipping": true
+      "free_shipping": true,
+      "city": "Palermo"
     },
     {
       "id": "MLA881032137",
@@ -171,7 +184,8 @@
       },
       "picture": "http://http2.mlstatic.com/D_806643-MLA31002298953_062019-I.jpg",
       "condition": "new",
-      "free_shipping": true
+      "free_shipping": true,
+      "city": "Palermo"
     },
     {
       "id": "MLA883017539",
@@ -183,7 +197,8 @@
       },
       "picture": "http://http2.mlstatic.com/D_647237-MLA31147830987_062019-O.jpg",
       "condition": "new",
-      "free_shipping": true
+      "free_shipping": true,
+      "city": "Caballito"
     },
     {
       "id": "MLA864098740",
@@ -195,7 +210,8 @@
       },
       "picture": "http://http2.mlstatic.com/D_619589-MLA42325555976_062020-O.jpg",
       "condition": "new",
-      "free_shipping": true
+      "free_shipping": true,
+      "city": "Martinez"
     },
     {
       "id": "MLA879391435",
@@ -207,7 +223,8 @@
       },
       "picture": "http://http2.mlstatic.com/D_636620-MLA31003091126_062019-O.jpg",
       "condition": "new",
-      "free_shipping": true
+      "free_shipping": true,
+      "city": "Belgrano"
     },
     {
       "id": "MLA864099849",
@@ -219,7 +236,8 @@
       },
       "picture": "http://http2.mlstatic.com/D_689781-MLA42325931590_062020-O.jpg",
       "condition": "new",
-      "free_shipping": true
+      "free_shipping": true,
+      "city": "Martinez"
     },
     {
       "id": "MLA820233037",
@@ -231,7 +249,8 @@
       },
       "picture": "http://http2.mlstatic.com/D_658810-MLA40127830324_122019-O.jpg",
       "condition": "new",
-      "free_shipping": true
+      "free_shipping": true,
+      "city": "Puerto Madero"
     },
     {
       "id": "MLA824712857",
@@ -243,7 +262,8 @@
       },
       "picture": "http://http2.mlstatic.com/D_857748-MLA41993894316_052020-O.jpg",
       "condition": "new",
-      "free_shipping": true
+      "free_shipping": true,
+      "city": "BARRACAS"
     },
     {
       "id": "MLA822727541",
@@ -255,7 +275,8 @@
       },
       "picture": "http://http2.mlstatic.com/D_794069-MLA41055482577_032020-O.jpg",
       "condition": "new",
-      "free_shipping": true
+      "free_shipping": true,
+      "city": "Palermo"
     },
     {
       "id": "MLA819397764",
@@ -267,7 +288,8 @@
       },
       "picture": "http://http2.mlstatic.com/D_831994-MLA32509104892_102019-O.jpg",
       "condition": "new",
-      "free_shipping": true
+      "free_shipping": true,
+      "city": "Almagro"
     },
     {
       "id": "MLA839212652",
@@ -279,7 +301,8 @@
       },
       "picture": "http://http2.mlstatic.com/D_797736-MLA41395960461_042020-O.jpg",
       "condition": "new",
-      "free_shipping": true
+      "free_shipping": true,
+      "city": "Palermo"
     },
     {
       "id": "MLA731191648",
@@ -291,7 +314,8 @@
       },
       "picture": "http://http2.mlstatic.com/D_633497-MLA26689143823_012018-O.jpg",
       "condition": "new",
-      "free_shipping": true
+      "free_shipping": true,
+      "city": "CAPITAL FEDERAL"
     },
     {
       "id": "MLA860064271",
@@ -303,7 +327,8 @@
       },
       "picture": "http://http2.mlstatic.com/D_673378-MLA42072802678_062020-O.jpg",
       "condition": "new",
-      "free_shipping": true
+      "free_shipping": true,
+      "city": "Almagro"
     },
     {
       "id": "MLA865356391",
@@ -315,7 +340,8 @@
       },
       "picture": "http://http2.mlstatic.com/D_741058-MLA42419679172_062020-O.jpg",
       "condition": "new",
-      "free_shipping": true
+      "free_shipping": true,
+      "city": "Saavedra"
     },
     {
       "id": "MLA882985502",
@@ -327,7 +353,8 @@
       },
       "picture": "http://http2.mlstatic.com/D_616110-MLA43699915836_102020-O.jpg",
       "condition": "used",
-      "free_shipping": false
+      "free_shipping": false,
+      "city": "Haedo"
     },
     {
       "id": "MLA873428218",
@@ -339,7 +366,8 @@
       },
       "picture": "http://http2.mlstatic.com/D_802965-MLA43172276865_082020-O.jpg",
       "condition": "used",
-      "free_shipping": false
+      "free_shipping": false,
+      "city": "Monte Chingolo"
     },
     {
       "id": "MLA796330870",
@@ -351,7 +379,8 @@
       },
       "picture": "http://http2.mlstatic.com/D_805665-MLA31298748174_072019-O.jpg",
       "condition": "new",
-      "free_shipping": false
+      "free_shipping": false,
+      "city": "CABA"
     },
     {
       "id": "MLA860961003",
@@ -363,7 +392,8 @@
       },
       "picture": "http://http2.mlstatic.com/D_735935-MLA42125524990_062020-O.jpg",
       "condition": "used",
-      "free_shipping": true
+      "free_shipping": true,
+      "city": "Capital Federal"
     },
     {
       "id": "MLA880301026",
@@ -375,7 +405,8 @@
       },
       "picture": "http://http2.mlstatic.com/D_945601-MLA43557663756_092020-O.jpg",
       "condition": "used",
-      "free_shipping": false
+      "free_shipping": false,
+      "city": "Belgrano"
     },
     {
       "id": "MLA882265638",
@@ -387,7 +418,8 @@
       },
       "picture": "http://http2.mlstatic.com/D_837795-MLA43691812768_102020-O.jpg",
       "condition": "used",
-      "free_shipping": false
+      "free_shipping": false,
+      "city": "Martinez"
     },
     {
       "id": "MLA878544732",
@@ -399,7 +431,8 @@
       },
       "picture": "http://http2.mlstatic.com/D_629968-MLA43454083401_092020-O.jpg",
       "condition": "used",
-      "free_shipping": false
+      "free_shipping": false,
+      "city": "Florida Oeste"
     },
     {
       "id": "MLA882985743",
@@ -411,7 +444,8 @@
       },
       "picture": "http://http2.mlstatic.com/D_724456-MLA43699966790_102020-O.jpg",
       "condition": "used",
-      "free_shipping": false
+      "free_shipping": false,
+      "city": "Belgrano"
     },
     {
       "id": "MLA872812583",
@@ -423,7 +457,8 @@
       },
       "picture": "http://http2.mlstatic.com/D_988430-MLA43281002965_082020-O.jpg",
       "condition": "used",
-      "free_shipping": false
+      "free_shipping": false,
+      "city": "Villa del Parque"
     },
     {
       "id": "MLA878854808",
@@ -435,7 +470,8 @@
       },
       "picture": "http://http2.mlstatic.com/D_751442-MLA43471006874_092020-O.jpg",
       "condition": "used",
-      "free_shipping": true
+      "free_shipping": true,
+      "city": "Balvanera"
     },
     {
       "id": "MLA875122730",
@@ -447,7 +483,8 @@
       },
       "picture": "http://http2.mlstatic.com/D_845057-MLA43262813020_082020-O.jpg",
       "condition": "used",
-      "free_shipping": false
+      "free_shipping": false,
+      "city": "Martinez"
     },
     {
       "id": "MLA880949721",
@@ -459,7 +496,8 @@
       },
       "picture": "http://http2.mlstatic.com/D_889364-MLA43596573662_092020-O.jpg",
       "condition": "used",
-      "free_shipping": true
+      "free_shipping": true,
+      "city": "CASTELAR"
     },
     {
       "id": "MLA871766245",
@@ -471,7 +509,8 @@
       },
       "picture": "http://http2.mlstatic.com/D_860048-MLA43029499717_082020-O.jpg",
       "condition": "used",
-      "free_shipping": true
+      "free_shipping": true,
+      "city": "Mariano Acosta"
     },
     {
       "id": "MLA841092920",
@@ -483,7 +522,8 @@
       },
       "picture": "http://http2.mlstatic.com/D_925323-MLA40920255724_022020-O.jpg",
       "condition": "used",
-      "free_shipping": false
+      "free_shipping": false,
+      "city": "CABA"
     },
     {
       "id": "MLA881462968",
@@ -495,7 +535,8 @@
       },
       "picture": "http://http2.mlstatic.com/D_973435-MLA43626119665_092020-O.jpg",
       "condition": "used",
-      "free_shipping": false
+      "free_shipping": false,
+      "city": "Microcentro"
     },
     {
       "id": "MLA882985535",
@@ -507,7 +548,8 @@
       },
       "picture": "http://http2.mlstatic.com/D_736957-MLA43411254047_092020-O.jpg",
       "condition": "used",
-      "free_shipping": true
+      "free_shipping": true,
+      "city": "Caba"
     },
     {
       "id": "MLA854254494",
@@ -519,7 +561,8 @@
       },
       "picture": "http://http2.mlstatic.com/D_963879-MLA41737837057_052020-O.jpg",
       "condition": "used",
-      "free_shipping": false
+      "free_shipping": false,
+      "city": "Buenos aires"
     },
     {
       "id": "MLA883159858",
@@ -531,7 +574,8 @@
       },
       "picture": "http://http2.mlstatic.com/D_991094-MLA43707113799_102020-O.jpg",
       "condition": "new",
-      "free_shipping": true
+      "free_shipping": true,
+      "city": "Buenos Aires"
     },
     {
       "id": "MLA883160419",
@@ -543,7 +587,8 @@
       },
       "picture": "http://http2.mlstatic.com/D_701664-MLA43706941635_102020-O.jpg",
       "condition": "used",
-      "free_shipping": false
+      "free_shipping": false,
+      "city": "Jose Ingenieros"
     },
     {
       "id": "MLA875491473",
@@ -555,7 +600,8 @@
       },
       "picture": "http://http2.mlstatic.com/D_911111-MLA42751939200_072020-O.jpg",
       "condition": "used",
-      "free_shipping": false
+      "free_shipping": false,
+      "city": "Villa del Parque"
     },
     {
       "id": "MLA880138206",
@@ -567,7 +613,8 @@
       },
       "picture": "http://http2.mlstatic.com/D_617199-MLA43545653074_092020-O.jpg",
       "condition": "used",
-      "free_shipping": false
+      "free_shipping": false,
+      "city": "Villa del Parque"
     },
     {
       "id": "MLA829540848",
@@ -579,7 +626,8 @@
       },
       "picture": "http://http2.mlstatic.com/D_711870-MLA43525064606_092020-O.jpg",
       "condition": "used",
-      "free_shipping": true
+      "free_shipping": true,
+      "city": "Florencio Varela"
     },
     {
       "id": "MLA874866635",
@@ -591,7 +639,8 @@
       },
       "picture": "http://http2.mlstatic.com/D_991844-MLA43693841513_102020-O.jpg",
       "condition": "used",
-      "free_shipping": true
+      "free_shipping": true,
+      "city": "Palermo"
     }
   ]
 }
